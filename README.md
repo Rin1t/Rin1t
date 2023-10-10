@@ -27,4 +27,3 @@ Welcome to my GitHub profile! I'm a passionate Information Security student at U
 
 ---
 
-Thank you for visiting my GitHub profile! Let's secure the digital world together, one line of code at a time. 💻🔒
